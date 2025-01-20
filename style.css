@@ -29,7 +29,7 @@ body {
 }
 .menu-item {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     margin-bottom: 20px;
 }
 .menu-item img {
@@ -59,4 +59,8 @@ body {
 }
 .menu-price {
     font-weight: bold;
+}
+.btn {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.8rem;
 }
