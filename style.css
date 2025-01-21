@@ -17,6 +17,7 @@ body {
 }
 .tagline {
     font-style: italic;
+    font-family: cursive;
     color: #a16b4c;
     text-align: center;
     margin-top: 10px;
