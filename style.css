@@ -49,7 +49,7 @@ body {
 .menu-title {
     font-weight: bold;
     font-size: 1.2rem;
-    margin-bottom: 2px;
+    margin-bottom: 1px;
 }
 .menu-description {
     font-size: 0.9rem;
@@ -70,7 +70,7 @@ body {
     font-size: 0.8rem;
     border-radius: 20px;
     background-color: #bdd1da;
-    color: #fff;
+    color: #000;
     border: none;
 }
 .btn:hover {
